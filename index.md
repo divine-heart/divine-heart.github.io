@@ -9,12 +9,13 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EdkZgf71B-A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Metroidvania Template
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDmAu-cG1K0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Platform Fighter with Traditional Fighter Elements
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p6MNrYo_7tA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
