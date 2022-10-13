@@ -4,6 +4,15 @@
 
 ### Block Witch
 
+Block Witch is a brightly coloured puzzle/action game in which the player controls one of many playable witches to overcome obstacles and solve puzzles in slide-on-ice puzzles!
+<br>
+My role in the project:
+- Lead Programmer: All the programming is handled by me, with the goal of writing modular code and creating tools to make setup of the game a breeze for designers.
+- Game Designer: Designed many of the mechanics, and generally being involved with all of the game's aspects. 
+- Level Design: Designed most of the levels (~50) present in the prototype.
+- Producer:  Setup sheets outlining all the content of the game, and assigned tasks to the team for various stages of the development cycle.
+<br> 
+Check out the prototype's page on itch.io for more details & videos!
 [Block Witch itch.io Page](https://stardrop-games.itch.io/block-witch)
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EdkZgf71B-A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
