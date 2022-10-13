@@ -11,6 +11,7 @@ My role in the project:
 - Game Designer: Designed many of the mechanics, and generally being involved with all of the game's aspects. 
 - Level Design: Designed most of the levels (~50) present in the prototype.
 - Producer:  Setup sheets outlining all the content of the game, and assigned tasks to the team for various stages of the development cycle.
+
 <br> 
 Check out the prototype's page on itch.io for more details & videos!
 <br>
