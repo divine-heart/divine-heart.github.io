@@ -8,12 +8,24 @@ Block Witch is a brightly coloured puzzle/action game in which the player contro
 <br><br>
 My role in the project:
 - Lead Programmer: All the programming is handled by me, with the goal of writing modular code and creating tools to make setup of the game a breeze for designers.
-- Game Designer: Designed many of the mechanics, and generally being involved with all of the game's aspects. 
-- Level Design: Designed most of the levels (~50) present in the prototype.
+- Game Designer: Designed player character abilities and many object mechanics. 
+- Level Design: Designed most of the levels (~50) present in the Prototype.
 - Contributed to story and character concepts.
 - Producer:  Setup sheets outlining all the content of the game, and assigned tasks to the team for various stages of the development cycle.
 
-Check out the prototype's page on itch.io for more details, videos and a playable build!
+## Block Witch at Cyprus Comic Con 2023!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iZg7h8HmBYw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Stardrop Games participated in Cyprus Comic Con 2023 as an Artist!
+There was a new playable demo build made from the ground up in Godot 4, which is also downloadable from the itch.io page.
+As a result of having less time to make the demo, it has a lot less content than the Prototype build (less levels, objects, no dialogue, no scoring system),
+but the experience is more condensely polished.
+
+Check out th page on itch.io for more details, videos and a playable builds!
+# The CCC Demo build has less content but prettier graphics and support for controller.
+# The Prototype build contains a lot more levels, playable characters, dialogue and more objects, but graphics are barebones.
+
 <br>
 [Block Witch itch.io Page](https://stardrop-games.itch.io/block-witch)
 <br>
