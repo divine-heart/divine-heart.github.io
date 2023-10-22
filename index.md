@@ -22,9 +22,9 @@ There was a new playable demo build made from the ground up in Godot 4, which is
 As a result of having less time to make the demo, it has a lot less content than the Prototype build (less levels, objects, no dialogue, no scoring system),
 but the experience is more condensely polished.
 
-Check out th page on itch.io for more details, videos and a playable builds!
-# The CCC Demo build has less content but prettier graphics and support for controller.
-# The Prototype build contains a lot more levels, playable characters, dialogue and more objects, but graphics are barebones.
+Check out the itch.io for more details, videos and a playable builds!
+#### The CCC Demo build has less content but prettier graphics and support for controller.
+#### The Prototype build contains a lot more levels, playable characters, dialogue and more objects, but graphics are barebones.
 
 <br>
 [Block Witch itch.io Page](https://stardrop-games.itch.io/block-witch)
