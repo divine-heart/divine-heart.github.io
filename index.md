@@ -13,8 +13,6 @@ As lead programmer of the project, it was up to me to integrate the efforts of t
 Stardrop Games participated in Cyprus Comic Con 2024 to show off a preview of the upcoming free demo for Block Witch!
 
 #### Check out Block Witch on Steam!
-
-<br>
 [Block Witch Steam Page]([https://stardrop-games.itch.io/block-witch](https://store.steampowered.com/app/3200310/Block_Witch/))
 <br>
 
