@@ -1,4 +1,4 @@
-# Game Programming/Design Portfolio
+# Demetris Tsartsalis - Unity, Godot, Programming & Game Design Portfolio
 
 ---
 
